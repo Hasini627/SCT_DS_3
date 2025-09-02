@@ -5,6 +5,7 @@ This project demonstrates how to use a Decision Tree Classifier (from scikit-lea
 
 The dataset is generated artificially and includes features such as Age, Income, Gender, Browsing Time, and Clicked Ads. A decision tree model is trained to classify whether the customer makes a purchase.
 
+
 🚀 Features
 
 ✅ Generate synthetic customer dataset
@@ -18,6 +19,7 @@ The dataset is generated artificially and includes features such as Age, Income,
 ✅ Evaluate performance with Accuracy & Classification Report
 
 ✅ Visualize the trained decision tree
+
 
 📊 Dataset Description
 
@@ -37,6 +39,7 @@ ClickedAds	Number of ads clicked (0–10)
 
 Purchased (Target)	1 = Purchase, 0 = No Purchase
 
+
 🛠️ Tech Stack
 
 Python 3
@@ -49,6 +52,7 @@ Scikit-learn – Model building & evaluation
 
 Matplotlib – Visualization
 
+
 📌 Future Enhancements
 
 Add feature importance plot
@@ -58,6 +62,7 @@ Use Random Forest Classifier for better performance
 Hyperparameter tuning with GridSearchCV
 
 Save model with joblib for deployment
+
 
 👩‍💻 Author
 
